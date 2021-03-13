@@ -1,4 +1,4 @@
-### 👋 Hello my 🐙!! I'm José!
+### 👋 Hello my consagrated!! I'm José!
 
 - 🔭 I’m currently working on <a href=“http://www.psvsistemas.com.br/“>PSV Engenharia de Sistemas</a>
 - 💻 I’m currently learning HTML, CSS, JAVASCRIPT, REACT JS
