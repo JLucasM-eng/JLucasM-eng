@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/-Instagram-e44660?style=flat-square&labelColor=e44660&logo=instagram&logoColor=white" />
 </a>
 
-<br><br>
+<br>
            
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,7 +34,7 @@
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 
-<br><br>
+<br>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
