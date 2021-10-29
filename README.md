@@ -17,7 +17,6 @@
 </a>
 
 <br><br>
-
            
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,6 +31,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
 
 <br><br>
 
