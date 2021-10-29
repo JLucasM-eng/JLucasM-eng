@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://www.instagram.com/jose.lucas.m" target="_blank">
- <img src="https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
